@@ -1,0 +1,133 @@
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.exe.config
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.exe
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.pdb
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmMoncs.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.Properties.Resources.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_QuanCaPhe.csproj.GenerateResource.Cache
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.exe
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.pdb
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNguyenLieu.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNhapNguyenLieu.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmThemMon.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmChiTietSuCo.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.FrmSuCo.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmPhieuNhapSuCo.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmDoanhThu.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmXemBieuDo.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmGoiMon.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNhapTTKH.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_TrangChu.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_Login.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_QuanCaPhe.csprojResolveAssemblyReference.cache
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_KhachHang.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_Ban.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_HoaDon.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.exe.config
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.exe
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.pdb
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.exe
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.pdb
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_Ban.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_HoaDon.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_KhachHang.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_Login.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmChiTietSuCo.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmDoanhThu.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmGoiMon.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmMoncs.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNguyenLieu.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNhapNguyenLieu.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNhapTTKH.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmPhieuNhapSuCo.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.FrmSuCo.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmThemMon.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmXemBieuDo.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_TrangChu.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.Properties.Resources.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_QuanCaPhe.csproj.GenerateResource.Cache
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_NhanVien.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_TaiKhoan.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.Frm_ThemNV.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ThemTK.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ChucVu.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ThemCV.resources
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_QuanCaPhe.csprojResolveAssemblyReference.cache
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\Xceed.Document.NET.dll
+C:\Users\kingg\OneDrive\Desktop\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\Xceed.Words.NET.dll
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.exe.config
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.exe
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.exe
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\Xceed.Document.NET.dll
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\Xceed.Words.NET.dll
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_Ban.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ChucVu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_HoaDon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_KhachHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_Login.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmChiTietSuCo.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmDoanhThu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmGoiMon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmMoncs.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNguyenLieu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNhapNguyenLieu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNhapTTKH.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmPhieuNhapSuCo.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.FrmSuCo.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmThemMon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmXemBieuDo.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_NhanVien.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_TaiKhoan.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ThemCV.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.Frm_ThemNV.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ThemTK.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_TrangChu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.Properties.Resources.resources
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_QuanCaPhe.csproj.GenerateResource.Cache
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\RdlCompile.cache
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\RdlCompile.compiled
+C:\Users\PC THAO\OneDrive\Máy tính\báo cáo Cnnet\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.InHoaDon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.exe.config
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.exe
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.exe
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\QL_CaPhe.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\Xceed.Document.NET.dll
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\Xceed.Words.NET.dll
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_QuanCaPhe.csprojResolveAssemblyReference.cache
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_Ban.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ChucVu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_HoaDon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_KhachHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_Login.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmChiTietSuCo.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmDoanhThu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmGoiMon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmMoncs.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNguyenLieu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNhapNguyenLieu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmNhapTTKH.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmPhieuNhapSuCo.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.FrmSuCo.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmThemMon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frmXemBieuDo.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_NhanVien.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_TaiKhoan.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ThemCV.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.Frm_ThemNV.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_ThemTK.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.GUI.frm_TrangChu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.InHoaDon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_CaPhe.Properties.Resources.resources
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\QL_QuanCaPhe.csproj.GenerateResource.Cache
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\RdlCompile.cache
+C:\Users\PC THAO\OneDrive\Máy tính\NhaBao_.NET_30_2022\QL_CaPhe\QL_CaPhe\obj\Debug\RdlCompile.compiled
